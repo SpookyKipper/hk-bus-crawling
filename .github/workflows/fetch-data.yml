@@ -1,5 +1,5 @@
 name: Data Fetching
-on: 
+on:  
   push:
       # branches-ignore:
       #   - alpha
